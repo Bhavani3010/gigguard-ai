@@ -1,6 +1,6 @@
 # 🛡️ GigGuard — Earn Even When You Can't Work
 
-> **AI-powered parametric income protection for gig delivery workers**  
+> **Insurance + Community Savings + Personal Savings — all in one ₹50/week plan**  
 > Built for DEV Trails University Hackathon 2026 · In partnership with EY
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-1e6fff?style=for-the-badge)](https://Bhavani3010.github.io/gigguard-ai/)
@@ -26,11 +26,17 @@ Existing insurance systems:
 
 ## 💡 The Solution — GigGuard
 
-GigGuard is a **smart community-funded income protection system** that combines:
+GigGuard **is** insurance — but a smarter, fairer kind called **Parametric Microinsurance**, combined with a community savings model.
 
-- 🤖 **AI** — real-time workability scoring per zone
-- 🛰️ **Parametric Insurance** — automatic payouts, zero claim forms
-- 🤝 **SHG Model** — community savings pool, money never wasted
+Every ₹50 weekly premium is split into **3 parts that each serve a different purpose**:
+
+| Pool | Amount | What it is | What it does |
+|---|---|---|---|
+| 🛡️ **Risk Pool** | ₹30 (60%) | **Parametric Insurance** | Automatically pays riders when weather is unsafe |
+| 🤝 **Community Fund** | ₹10 (20%) | **SHG Mutual Aid** | Emergency backup + micro-loans for the community |
+| 💰 **Savings Pool** | ₹10 (20%) | **Personal Savings** | Always yours — withdraw anytime, never lost |
+
+> **The genius:** If weather is bad → Risk Pool pays you. If nothing happens → Savings Pool pays you back. Every rupee works for the rider.
 
 ### One Line: *Riders get paid automatically when they can't work — and never lose their premium money.*
 
@@ -42,9 +48,9 @@ GigGuard is a **smart community-funded income protection system** that combines:
 Rider pays ₹50/week
         ↓
 Split into 3 pools:
-  🛡️ ₹30 (60%) → Risk Pool      ← funds payouts
-  🤝 ₹10 (20%) → Community Fund  ← SHG emergency backup
-  💰 ₹10 (20%) → Savings Pool    ← always yours, withdraw anytime
+  🛡️ ₹30 (60%) → Risk Pool      ← parametric insurance, funds payouts
+  🤝 ₹10 (20%) → Community Fund  ← SHG mutual aid, emergency backup
+  💰 ₹10 (20%) → Savings Pool    ← personal savings, withdraw anytime
         ↓
 IMD monitors hyperlocal weather every 15 minutes per pincode
         ↓
@@ -85,14 +91,14 @@ Weekly collection:  100 riders × ₹50 = ₹5,000
                     ▼                     ▼                      ▼
              🛡️ Risk Pool          🤝 Community Fund       💰 Savings Pool
                ₹3,000 (60%)          ₹1,000 (20%)           ₹1,000 (20%)
-            Pays disruptions       SHG emergency         Returned to riders
-                                      backup               (withdraw anytime)
+           Parametric Insurance    SHG Mutual Aid         Personal Savings
+            Pays disruptions       Emergency backup       Withdraw anytime
 
-Heavy Rain Week — 60 riders affected:
-  Payout = ₹3,000 ÷ 60 = ₹50/rider (minimum ₹80 guaranteed)
+Heavy Rain Week — 30 riders affected:
+  Payout = ₹3,000 ÷ 30 = ₹100/rider (auto-credited, no claim needed)
 
 Clear Week — 0 riders affected:
-  All 100 riders → ₹10 each added to savings → withdraw anytime
+  All 100 riders → ₹10 each added to personal savings → withdraw anytime
 ```
 
 ---
@@ -148,10 +154,11 @@ cd gigguard-ai
 **Track:** AI-powered financial inclusion for gig workers
 
 ### What Makes This Different
-- 🔁 **Not traditional insurance** — community funds each other (SHG model)
-- 🤖 **Parametric** — payout triggers on condition, not claim
-- 💸 **No wasted premium** — savings always returned
+- 🛡️ **Parametric microinsurance** — payout triggers automatically on weather condition, not manual claim
+- 🤝 **SHG community fund** — riders back each other up, inspired by India's Self Help Groups
+- 💰 **Personal savings built in** — 20% of every premium is personal savings, always withdrawable
 - 📍 **Hyperlocal** — pincode-level precision, not city-wide blunt payouts
+- 🔁 **Premium never wasted** — either you get a payout OR your savings come back to you
 
 ---
 

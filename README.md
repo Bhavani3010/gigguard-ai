@@ -144,7 +144,7 @@ cd gigguard-ai
 
 **Event:** DEV Trails University Hackathon · Seed Phase  
 **Theme:** Fintech / Social Impact / AI  
-**Team:** Bhavani  
+**Team:** Bhavani  , Adishree , Monica
 **Track:** AI-powered financial inclusion for gig workers
 
 ### What Makes This Different
